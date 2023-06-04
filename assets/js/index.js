@@ -1,3 +1,4 @@
+// 入口函数
 $(function(){
     // 调用获取用户信息的函数
     getUserInfo()

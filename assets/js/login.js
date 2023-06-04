@@ -1,3 +1,4 @@
+// 入口函数
 $(function(){
     // 从layui中获取form对象
     var form = layui.form
